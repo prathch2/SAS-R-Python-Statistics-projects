@@ -23,6 +23,6 @@ decision rule, and conclusion for each of the analyses in the comments. Test usi
 
 6.  Use PROC TTEST to determine if gender influences the mean response for each glucose measurement.  
 Again state the hypothesis, test statistic, decision rule and conclusion for each of the analyses 
-in the comments. Test using alpha = 0.045. (40pts).
+in the comments. Test using alpha = 0.045. 
 
 7.  Does it appear the assumptions for the tests are met?  Test the assumptions and put the results in the comments.
