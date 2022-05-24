@@ -1,4 +1,4 @@
-#Case Problem:
+Case Problem:
 A researcher interested in impulsivity scores for patients in a clinical trial.  The trial is conducted at 3 sites, 
 Cleveland (C), Minnesota (M), and Raleigh (R) and the participants Sex (M or F), Age and whether or not they 
 received the Placebo (P) or the treatment Zynipheron (Z) are all recorded. The SampleID contains all of this 
