@@ -1,8 +1,7 @@
 ## Case Problem
-A researcher is interested in the relationship between influenza and temperature (°C) .  
-She has compiled data from several locations in the NorthEast and NorthWest of the 
-United States and wishes to look at the data.  The data is contained in the Flu1.txt 
-file attached.
+A researcher is interested in the relationship between influenza and temperature (°C). She has compiled data 
+from several locations in the NorthEast and NorthWest of the United States and wishes to look at the data. 
+The data is contained in the Flu1.txt file attached.
 
 1. Create an overall scatterplot using PROC PLOT and comment on the relationship.  
 2. Create an overall scatterplot using PROC GPLOT and comment on the relationship.  
