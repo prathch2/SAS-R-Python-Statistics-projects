@@ -1,0 +1,186 @@
+"EmpID","Shift","Rate","Role","MonthsEmp"
+10406,"Morning",41.25,"Manager",101
+10408,"Evening",45,"Manager",131
+10412,"Morning",45.75,"Manager",137
+10415,"Morning",46.5,"Manager",138
+10418,"Afternoon",42,"Manager",101
+10424,"Afternoon",45.25,"Manager",127
+10431,"Evening",43,"Manager",122
+10434,"Afternoon",37.75,"Assistant Mgr",102
+10437,"Afternoon",40.5,"Manager",118
+10440,"Afternoon",44.5,"Manager",128
+10442,"Morning",40.25,"Manager",122
+10446,"Morning",46.5,"Manager",120
+10448,"Evening",41.75,"Manager",119
+10452,"Evening",43.75,"Manager",136
+10458,"Afternoon",39.75,"Assistant Mgr",100
+10461,"Evening",37.25,"Assistant Mgr",78
+10467,"Afternoon",37.5,"Assistant Mgr",98
+10471,"Morning",27.5,"Staff",80
+10477,"Afternoon",36,"Assistant Mgr",92
+10481,"Afternoon",38.75,"Assistant Mgr",78
+10488,"Afternoon",33.5,"Staff",86
+10491,"Morning",38.25,"Assistant Mgr",99
+10497,"Morning",33.25,"Staff",87
+10502,"Evening",34.25,"Staff",77
+10505,"Afternoon",35.75,"Assistant Mgr",84
+10510,"Evening",36.75,"Assistant Mgr",97
+10518,"Evening",39.25,"Assistant Mgr",90
+10523,"Evening",36.75,"Assistant Mgr",90
+10527,"Morning",30.75,"Staff",75
+10531,"Afternoon",35.25,"Assistant Mgr",81
+10536,"Morning",34.5,"Staff",90
+10541,"Evening",41.75,"Manager",99
+10544,"Morning",38.5,"Assistant Mgr",99
+10549,"Afternoon",31.75,"Staff",82
+10553,"Morning",38.75,"Assistant Mgr",90
+10558,"Morning",38.5,"Assistant Mgr",94
+10563,"Afternoon",29.25,"Staff",83
+10569,"Morning",35.25,"Assistant Mgr",85
+10574,"Afternoon",31.5,"Staff",78
+10580,"Morning",37.75,"Assistant Mgr",95
+10585,"Morning",36.25,"Assistant Mgr",87
+10588,"Afternoon",36.75,"Assistant Mgr",100
+10596,"Afternoon",33.75,"Staff",82
+10598,"Afternoon",33.75,"Staff",84
+10609,"Evening",36.75,"Assistant Mgr",99
+10617,"Morning",36.5,"Assistant Mgr",80
+10620,"Afternoon",41.5,"Manager",91
+10624,"Evening",40.5,"Manager",93
+10627,"Morning",34,"Staff",97
+10632,"Morning",42.75,"Manager",82
+10634,"Morning",38.75,"Assistant Mgr",79
+10639,"Morning",40.5,"Manager",83
+10642,"Evening",36,"Assistant Mgr",95
+10647,"Evening",35.5,"Assistant Mgr",76
+10650,"Afternoon",30.75,"Staff",76
+10658,"Afternoon",38.75,"Assistant Mgr",89
+10661,"Morning",38.75,"Assistant Mgr",81
+10666,"Morning",37.75,"Assistant Mgr",83
+10675,"Afternoon",32,"Staff",93
+10678,"Evening",34,"Staff",100
+10681,"Evening",34.75,"Staff",71
+10685,"Morning",29.75,"Staff",60
+10689,"Evening",31,"Staff",67
+10696,"Morning",28.25,"Staff",65
+10698,"Evening",30.25,"Staff",71
+10702,"Afternoon",27.25,"Staff",61
+10707,"Evening",33.25,"Staff",65
+10715,"Evening",24.25,"Staff",53
+10718,"Afternoon",29.75,"Staff",63
+10724,"Morning",30,"Staff",66
+10728,"Morning",25.5,"Staff",48
+10737,"Evening",32,"Staff",38
+10741,"Afternoon",23.5,"Staff",14
+10744,"Afternoon",25.25,"Staff",13
+10750,"Afternoon",21.5,"Staff",11
+10754,"Evening",19,"Staff",17
+10757,"Morning",27.5,"Staff",20
+10760,"Morning",24.25,"Staff",22
+10763,"Evening",26.25,"Staff",39
+10765,"Evening",26.25,"Staff",44
+10769,"Morning",27.75,"Staff",25
+10779,"Morning",22.5,"Staff",2
+10784,"Evening",27.25,"Staff",24
+10788,"Morning",28,"Staff",35
+10795,"Morning",27.75,"Staff",33
+10801,"Evening",25.25,"Staff",7
+10805,"Afternoon",22,"Staff",33
+10809,"Afternoon",19,"Staff",21
+10817,"Afternoon",23.75,"Staff",16
+10827,"Morning",26.5,"Staff",3
+10830,"Afternoon",18,"Staff",7
+10836,"Afternoon",26.5,"Staff",25
+10847,"Evening",32.5,"Staff",39
+10850,"Morning",21.5,"Staff",20
+10854,"Morning",22.25,"Staff",10
+10856,"Afternoon",28.5,"Staff",26
+10862,"Morning",19.5,"Staff",19
+10865,"Morning",22.25,"Staff",4
+10870,"Morning",26.75,"Staff",25
+10875,"Afternoon",29.25,"Staff",40
+10881,"Morning",18.5,"Staff",6
+10885,"Afternoon",26,"Staff",40
+10889,"Morning",24.75,"Staff",20
+10893,"Morning",27,"Staff",37
+10899,"Afternoon",27.25,"Staff",27
+10903,"Evening",22.25,"Staff",12
+10910,"Morning",19.5,"Staff",9
+10917,"Evening",20.5,"Staff",23
+10921,"Morning",31,"Staff",29
+10926,"Afternoon",29.25,"Staff",30
+10929,"Evening",34.25,"Staff",44
+10937,"Afternoon",26.5,"Staff",29
+10945,"Morning",24,"Staff",1
+10951,"Evening",32.5,"Staff",46
+10956,"Afternoon",25.75,"Staff",46
+10962,"Afternoon",26.75,"Staff",30
+10969,"Evening",25,"Staff",5
+10974,"Afternoon",21,"Staff",7
+10981,"Afternoon",23.25,"Staff",5
+10984,"Evening",25.75,"Staff",2
+10988,"Evening",24.5,"Staff",48
+10995,"Morning",21.75,"Staff",15
+10998,"Morning",24.25,"Staff",13
+11001,"Afternoon",24,"Staff",26
+11008,"Morning",15.25,"Staff",4
+11013,"Evening",27.5,"Staff",45
+11015,"Morning",18.75,"Staff",5
+11023,"Morning",27.25,"Staff",13
+11033,"Afternoon",28.25,"Staff",20
+11038,"Afternoon",25,"Staff",30
+11046,"Morning",20.25,"Staff",9
+11053,"Evening",33.25,"Staff",36
+11057,"Morning",22.25,"Staff",12
+11062,"Morning",27.25,"Staff",15
+11067,"Morning",27.25,"Staff",48
+11073,"Evening",19.5,"Staff",17
+11077,"Morning",27.5,"Staff",18
+11082,"Evening",22.25,"Staff",23
+11083,"Evening",28.25,"Staff",23
+11088,"Afternoon",35.25,"Assistant Mgr",44
+11092,"Morning",34.75,"Staff",47
+11104,"Morning",31,"Staff",37
+11107,"Evening",28,"Staff",43
+11108,"Morning",26,"Staff",16
+11115,"Morning",29.5,"Staff",2
+11118,"Morning",20.25,"Staff",26
+11124,"Morning",20.5,"Staff",9
+11126,"Evening",19.5,"Staff",8
+11129,"Evening",31.5,"Staff",39
+11138,"Afternoon",22.5,"Staff",12
+11142,"Evening",26.75,"Staff",26
+11150,"Afternoon",24.5,"Staff",20
+11155,"Afternoon",29.75,"Staff",39
+11160,"Afternoon",21.5,"Staff",27
+11164,"Afternoon",18.25,"Staff",1
+11168,"Morning",24.25,"Staff",10
+11175,"Morning",24.25,"Staff",25
+11178,"Morning",28.75,"Staff",22
+11183,"Evening",24.75,"Staff",15
+11186,"Morning",26.25,"Staff",44
+11193,"Afternoon",31,"Staff",45
+11197,"Morning",25,"Staff",39
+11202,"Afternoon",29.25,"Staff",47
+11209,"Morning",22.75,"Staff",6
+11216,"Morning",21,"Staff",23
+11223,"Afternoon",19.25,"Staff",26
+11226,"Morning",19.75,"Staff",6
+11233,"Afternoon",27.5,"Staff",40
+11241,"Morning",29,"Staff",47
+11244,"Morning",27.5,"Staff",18
+11249,"Evening",30.75,"Staff",43
+11250,"Morning",25,"Staff",29
+11258,"Evening",30.5,"Staff",2
+11261,"Evening",25,"Staff",4
+11263,"Afternoon",24,"Staff",8
+11269,"Morning",21,"Staff",6
+11274,"Evening",24.5,"Staff",38
+11279,"Evening",19.25,"Staff",3
+11285,"Afternoon",27,"Staff",2
+11293,"Afternoon",18,"Staff",10
+11298,"Morning",29.75,"Staff",47
+11304,"Evening",21,"Staff",13
+11314,"Afternoon",29.75,"Staff",11
+11319,"Evening",20.75,"Staff",12
+11321,"Evening",26.25,"Staff",34
