@@ -1,3 +1,4 @@
+## Case Problem:
 Using the Baltimore Violent Crime data attached below complete the following.  To make your life easier you may want to learn how to effectively deal with dates in R.
 
 1. Create Barplot of SHOOTINGS by month.  Be sure to clearly label everything and comment on which month has the most shootings and which month has the least shootings.  (20 pts)
